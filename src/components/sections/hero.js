@@ -61,17 +61,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Shivam Rawat.</h2>;
-  const three = <h3 className="big-heading">I like to learn things fast.</h3>;
+  const three = <h3 className="big-heading">I like to learn and build things fast!!!</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        In the last few years I have fall in LOVE with buidling products, playing with data and
+        implementing machine leaning models. I like to solve problems _systematically_ and make a
+        good dad joke whenever I can.
       </p>
     </>
   );
