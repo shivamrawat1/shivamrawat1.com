@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'CauseCanvas'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/shivamrawat1/sustainibility-labs'
+external: 'https://github.com/shivamrawat1/sustainibility-labs'
 tech:
+  - Django
+  - Replicate AI
+  - MongoDB
   - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Hugging Face
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Building a GenAI Campaign Tool to create AI-driven, natural-looking content on clothing for advocacy campaigns. Developed with Python, Django, Replicate AI, MongoDB, and React, the web app generates visually compelling content promoting climate change and sustainability causes. A specialized model powers this tool, producing tailored materials for NGOs and social media, enhancing engagement with impactful, advocacy-focused visuals.
