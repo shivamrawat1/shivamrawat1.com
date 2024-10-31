@@ -60,8 +60,8 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Shivam Rawat.</h2>;
+  const three = <h3 className="big-heading">I like to learn things fast.</h3>;
   const four = (
     <>
       <p>
@@ -78,10 +78,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://docs.google.com/document/d/1qqdUjpH_PTawFCkPxP0kCl6mfCIdW-ZC/edit?usp=sharing&ouid=109726374170643768409&rtpof=true&sd=true"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Resume
     </a>
   );
 
