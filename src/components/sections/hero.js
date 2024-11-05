@@ -65,9 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        In the last few years I have fall in LOVE with buidling products, playing with data and
-        implementing machine leaning models. I like to solve problems _systematically_ and make a
-        good dad joke whenever I can.
+        In the last few years I have fallen in <span style={{ color: '#64ffda' }}>LOVE</span> with
+        buidling products, playing with data and implementing machine leaning models. I like to
+        solve problems <span style={{ color: '#64ffda' }}>systematically</span> and make a good dad
+        joke whenever I can.
       </p>
     </>
   );

@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Python Task Scheduler'
 cover: './demo.png'
 github: 'https://github.com/shivamrawat1/python-task-scheduler'

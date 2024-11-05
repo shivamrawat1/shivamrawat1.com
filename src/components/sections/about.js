@@ -150,20 +150,35 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I am senior at <a href="https://www.minerva.edu/about/">Minerva University</a>{' '}
-            </p>
-
-            <p>fdfd</p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              I grew up near the mountains in Uttarakhand, India, where I’d finish schoolwork early
+              and spend the rest of the year replicating experiments from shows like{' '}
+              <a href="https://en.wikipedia.org/wiki/Backyard_Science">Backyard Science</a> and{' '}
+              <a href="https://www.imdb.com/title/tt2314205/">FAQ</a> . When home experiments
+              weren’t enough to satistfy my curiosity, I reached out to over 100 professors at a
+              nearby university, hoping to work in their labs. Surprisingly, the cold outreach
+              worked, and I ended up conducting bioinformatics research and winning{' '}
+              <a href="https://x.com/mygovindia/status/1485643062001172484">national</a> and{' '}
+              <a href="https://abstracts.societyforscience.org/Home/FullAbstract?ISEFYears=0%2C&Category=Any%20Category&Finalist=rawat&AllAbstracts=True&FairCountry=Any%20Country&FairState=Any%20State&ProjectId=20163">
+                international
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              awards—and even a{' '}
+              <a href="https://x.com/narendramodi/status/1485612096130002946?lang=en">tweet</a> from
+              the President of India.
             </p>
-
+            <p>
+              For university, I made a last-minute decision to attend{' '}
+              <a href="https://www.minerva.edu/about/">Minerva</a> , where studying in a different
+              country each semester—including the US, South Korea, Taiwan, India, Argentina, the UK,
+              and Germany—broadened my academic and cultural experiences. I initially pursued
+              Natural Science but, after discovering wet labs weren’t for me, switched to Computer
+              Science as my major.
+            </p>
+            <p>
+              Now, I strive to become a{' '}
+              <a href="https://www.urbandictionary.com/define.php?term=Cracked">cracked</a>{' '}
+              developer and build products and services that can positively impact millions of
+              people.
+            </p>
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 

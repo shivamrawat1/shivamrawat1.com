@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Argentinian Accent Classification and Speaker Diarization'
 cover: './demo.png'
 external: 'https://github.com/shivamrawat1/accent-classification/tree/main'
